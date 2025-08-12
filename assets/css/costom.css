@@ -1,0 +1,16 @@
+
+
+@media (max-width: 600px) {
+  .service-three__content__icon {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--getizy-secondary, #000000);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+  display: none;
+
+}
+}
